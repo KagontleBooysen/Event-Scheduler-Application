@@ -14,17 +14,15 @@ The Event Scheduler Application is a simple Python program that allows users to 
 
 ## Requirements
 
-- Python 3.x
+- Python 3. x
 
 ## Getting Started
 
 ## 1. Clone the repository:
-git clone 
-
+git clone https://github.com/KagontleBooysen/Event-Scheduler-Application
 
 ## 2. Navigate to the project directory:
 cd Event-Scheduler-Application
-
 
 ## 3. Run the application:
 python3 event_scheduler.py
